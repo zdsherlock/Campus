@@ -494,21 +494,30 @@ header.masthead .intro-text .intro-heading {
 }
 
 .c-data{
-    font-size: 75px;
+    font-size: 65px;
     color: #0085ff;
 }
 .data-head{
-    font-size: 30px;
+    font-size: 10px;
 }
 .culture-item{
-    padding:.28rem .3rem;
+    padding:20px 15px;
     float: left;
+
 }
 .Salary-detil{
-    float: left;
-    display: inline;
-    width: 33.33%
+    border-color: antiquewhite;
+    border-style: dashed;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
+.culture-item-inside{
+        background-image: url("../img/bg-title.jpg");
+}
+.container .culture-item-inside{
+    padding:20px 15px;
+}
+
 @media (min-width: 768px) {
   .timeline:before {
     left: 50%;
