@@ -498,7 +498,7 @@ header.masthead .intro-text .intro-heading {
     color: #0085ff;
 }
 .data-head{
-    font-size: 10px;
+    font-size: 35px;
 }
 .culture-item{
     padding:20px 15px;
@@ -510,6 +510,12 @@ header.masthead .intro-text .intro-heading {
     border-style: dashed;
     padding-top: 10px;
     padding-bottom: 10px;
+}
+.Salary-title{
+    margin-bottom:10px;
+}
+.Salary-title img{
+    width: 350px;
 }
 .culture-item-inside{
         background-image: url("../img/bg-title.jpg");
