@@ -205,8 +205,9 @@ header.masthead .intro-text .intro-heading {
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
-    padding-top: 300px;
+    padding-top: 25%;
     padding-bottom: 200px;
+    height: 100vh;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
@@ -498,7 +499,7 @@ header.masthead .intro-text .intro-heading {
     color: #0085ff;
 }
 .data-head{
-    font-size: 35px;
+    font-size: 31px;
 }
 .culture-item{
     padding:20px 15px;
@@ -518,7 +519,8 @@ header.masthead .intro-text .intro-heading {
     width: 350px;
 }
 .culture-item-inside{
-        background-image: url("../img/bg-title.jpg");
+        background-image: url("../img/bg-title.png");
+        background-repeat: no-repeat;
 }
 .container .culture-item-inside{
     padding:20px 15px;
