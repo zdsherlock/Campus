@@ -1,0 +1,13 @@
+.container{
+    height: 100vh;
+}
+
+#header{
+    padding-top:30px;
+    padding-bottom: 50px;
+    font-size: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
